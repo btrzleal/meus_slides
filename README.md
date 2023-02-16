@@ -1,5 +1,5 @@
 # meus_slides
-Neste repositório, serão dispostas todas as minhas apresentações em ordem cronológica. Você pode visualiza-las clicando nos links abaixo:
+Respositório criado para organizar minhas apresentações. 
 
 | Data  | Slide |
 | ----- | ------------- |
