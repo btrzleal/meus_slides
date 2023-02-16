@@ -1,6 +1,6 @@
 # meus_slides
-Minhas apresentações 
+Você pode visualizar minhas apresentações acessando os links abaixo
 
 | Data  | Slide |
 | ----- | ------------- |
-| 11/2022  | [congressso ufba](https://btrzleal.github.io/#1) |
+| 11/2022  | [Congressso Ufba](https://btrzleal.github.io/#1) |
